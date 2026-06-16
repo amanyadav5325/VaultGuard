@@ -1,3 +1,6 @@
+
+https://github.com/user-attachments/assets/facff79d-7bf1-4214-a010-13b94163696a
+
 # 🔐 VaultGuard — Password Manager
 
 **VaultGuard** is a fully local, encrypted password manager with a beautiful dark-themed GUI built in Python + Tkinter.
